@@ -1,5 +1,5 @@
 # The name of the project
-project_name: PROJECT
+project_name: rdm-example
 
 # Standard Version
 standard: IEC62304:2006
@@ -26,10 +26,10 @@ repository: user/repository
 safety_class: C
 
 # A string that identifies a release of the software (e.g. v1.0.0)
-release_id: v1.0.0
+release_id: v0.1.0rc1
 
 # The company name of the medical device manufacturer
-manufacturer_name: MANUFACTURER
+manufacturer_name: MyNiceCompany Ltd.
 
 # The company name of the software consulting firm, if there is one (set to
 # `null` if there isn't)
